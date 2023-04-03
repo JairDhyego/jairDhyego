@@ -1,7 +1,8 @@
-### Olá! Eu sou o Dhyego! 🖐️
-Apaixonado por tecnologia e aprendendo cada dia mais a cerca do que é viver! </br> Atualmente estou estudando sobre programação e dominando as principais ferramentas do mercado. </br>
-Siga em frente, codando um desafio de cada vez!
+## Hi! My name is Dhyego! 🖐️
+passionate about Technology and learning every day about life. At present i have been Studied about programming and perfecting in the main tools in the area.. </br>
+Keep moving forward, tackling one challenge at a time!
 
+### English in development
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jair-dhyego-770061215/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jaiirdhyego@gmail.com)
@@ -11,7 +12,7 @@ Siga em frente, codando um desafio de cada vez!
 
 ![Dhyego GitHub stats](https://github-readme-stats.vercel.app/api?username=JairDhyego&show_icons=true&theme=onedark)
 
-### Tecnologias do meu dia a dia. 🖐️
+### Tecnology of my day for day. 🖐️
 
 <div style="display:inline-block" ></br>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
