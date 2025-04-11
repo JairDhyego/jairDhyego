@@ -1,5 +1,5 @@
 ## Hi! My name is Dhyego! 🖐️
-passionate about Technology and learning every day about life. At present i have been Studied about programming and perfecting in the main tools in the area.. </br>
+Passionate about Technology and learning every day about life. At present i have been Studied about programming and perfecting in the main tools in the area.. </br>
 Keep moving forward, tackling one challenge at a time!
 
 ### English in development
